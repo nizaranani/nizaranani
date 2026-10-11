@@ -30,9 +30,7 @@ My personal portfolio showcasing my web development journey.
 [**View Portfolio →**](https://nizaranani.github.io/my-portfolio/)
 
 ### 📞 My telephone
-My personal telephone.
-
-[**telephone →**](0679492553)
+My personal telephone : 0679492553 
 
 ### 🛒 E-commerce Website
 A PHP and MySQL e-commerce project featuring product and category management.
