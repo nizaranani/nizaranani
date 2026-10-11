@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Nizar 👋
 
-<!--
-**nizaranani/nizaranani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a second-year Full Stack Development student at ISTA / OFPPT in Morocco.
 
-Here are some ideas to get you started:
+I'm learning web development and building projects to improve my practical skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Technologies I'm Learning
+
+- HTML5 and CSS3
+- JavaScript
+- React
+- PHP and MySQL
+- Python
+
+## 🎯 My Goals
+
+- Build real-world projects and improve my coding skills.
+- Develop a professional portfolio.
+- Find an internship or a junior developer opportunity.
+- Continue my studies in France.
+
+## 📚 Currently
+
+- Learning Full Stack Development.
+- Practicing programming through personal projects.
+- Improving my problem-solving skills.
+
+## 🤝 Connect with Me
+
+- GitHub: [@nizaranani](https://github.com/nizaranani)
+
+---
+
+*Always learning, building, and improving.*
