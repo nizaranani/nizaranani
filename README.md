@@ -1,4 +1,5 @@
-# Hi, I'm Nizar Anani 👋
+# Hi, I'm Nizar Anani 
+<img src="https://img.shields.io/badge/👨‍💻_Developer-Coding-blue?style=for-the-badge" alt="Developer Coding">
 
 ### 💻 Full Stack Development Student | Morocco 🇲🇦
 
