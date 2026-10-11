@@ -44,7 +44,7 @@ A PHP and MySQL e-commerce project featuring product and category management.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizaranani&layout=compact&theme=tokyonight&hide_border=true" style={width:auto} alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nizaranani&layout=compact&theme=tokyonight&hide_border=true"  alt="Most Used Languages" />
 </p>
 
 ---
