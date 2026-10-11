@@ -28,6 +28,8 @@ I'm learning web development and building projects to improve my practical skill
 ## 🤝 Connect with Me
 
 - GitHub: [@nizaranani](https://github.com/nizaranani)
+- LinkedIn:[@nizaranani](www.linkedin.com/in/nizar-anani-a13baa392)
+- Email: nizaranani2@gmail.com
 
 ---
 
