@@ -68,7 +68,7 @@ A PHP and MySQL e-commerce project featuring product and category management.
 - 💼 [LinkedIn](https://www.linkedin.com/in/nizar-anani-a13baa392/)
 - 📧 [Email](mailto:nizaranani2@gmail.com)
 - 🐙 [GitHub](https://github.com/nizaranani)
-- My personal telephone : 0679492553 
+- 📞 0679492553 
 
 ---
 
